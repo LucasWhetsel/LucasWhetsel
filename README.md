@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lucas! Aspiring Cybersecurity Analyst</h1>
+<h1>Hi, I'm Lucas! an IT Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
